@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @chandankusethi
+- 👋 Hi, I’m @chandan kumar sethi
 - 👀 I’m interested in GenAI
 - 🌱 I’m currently learning python for ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me chandansethi7846@gmail.com
+- ⚡ Fun fact -I think i am funny
+
 
 <!---
 chandankusethi/chandankusethi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
